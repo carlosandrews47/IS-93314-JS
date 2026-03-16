@@ -1,0 +1,18 @@
+{
+  "name": "is-93314-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "exppress": "^0.0.1-security",
+    "mysql2": "^3.20.0",
+    "sequelize": "^6.37.8"
+  }
+}
